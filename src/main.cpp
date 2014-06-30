@@ -7,10 +7,11 @@
 //
 
 #include <iostream>
+#include "Network.h"
 
 int main(){
     
-    std::cout << "Test" << std::endl;
+    std::cout << "Testing" << std::endl;
     
     return 0;
 }
